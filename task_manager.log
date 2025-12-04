@@ -1,0 +1,16 @@
+Go to hospitalINFO:root:2025-12-04 15:48:52.225353: Executing function: wrapper with args: (<task.TaskManager object at 0x100b49be0>, 'Go HASTANE', '16-12-2005', 'Med'), kwargs: {}
+INFO:root:Function add_task executed in 0.0009 seconds
+INFO:root:2025-12-04 15:48:55.161565: Executing function: wrapper with args: (<task.TaskManager object at 0x100b49be0>,), kwargs: {}
+INFO:root:Function view_tasks executed in 0.0001 seconds
+INFO:root:2025-12-04 15:49:00.411107: Executing function: wrapper with args: (<task.TaskManager object at 0x100b49be0>,), kwargs: {}
+INFO:root:Function view_tasks executed in 0.0001 seconds
+INFO:root:2025-12-04 15:49:03.608060: Executing function: wrapper with args: (<task.TaskManager object at 0x100b49be0>, 0), kwargs: {}
+INFO:root:Function mark_complete executed in 0.0007 seconds
+INFO:root:2025-12-04 15:49:20.361641: Executing function: wrapper with args: (<task.TaskManager object at 0x100b49be0>,), kwargs: {}
+INFO:root:Function view_next_queue_task executed in 0.0000 seconds
+INFO:root:2025-12-04 15:49:38.070409: Executing function: wrapper with args: (<task.TaskManager object at 0x100b49be0>, 'Solve Algo cpp', '18-12-2005', 'AlgoLig'), kwargs: {}
+INFO:root:Function add_task executed in 0.0009 seconds
+INFO:root:2025-12-04 15:49:39.909666: Executing function: wrapper with args: (<task.TaskManager object at 0x100b49be0>,), kwargs: {}
+INFO:root:Function view_tasks executed in 0.0000 seconds
+INFO:root:2025-12-04 15:52:14.264707: Executing function: wrapper with args: (<task.TaskManager object at 0x100a49be0>,), kwargs: {}
+INFO:root:Function view_tasks executed in 0.0001 seconds
